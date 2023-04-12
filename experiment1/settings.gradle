@@ -16,3 +16,5 @@ rootProject.name = "Experiment1"
 include ':UserLogin'
 include ':Shopping'
 include ':activity'
+include ':experiment_a'
+include ':pickpeach'
