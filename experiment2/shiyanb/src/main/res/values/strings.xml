@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">测试跳转</string>
+    <string name="register">注册</string>
+    <string name="tel">用户名：</string>
+    <string name="password">密 码：</string>
+    <string name="regist">点击开始注册</string>
+</resources>
