@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 rootProject.name = "Experiments"
 include ':cs'
 include ':shiyanb'
+include ':directorySQ'
+include ':directorysp'
+include ':directoryfile'

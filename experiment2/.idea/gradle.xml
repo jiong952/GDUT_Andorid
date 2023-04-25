@@ -11,6 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/cs" />
+            <option value="$PROJECT_DIR$/directorySQ" />
+            <option value="$PROJECT_DIR$/directoryfile" />
+            <option value="$PROJECT_DIR$/directorysp" />
             <option value="$PROJECT_DIR$/shiyanb" />
           </set>
         </option>
