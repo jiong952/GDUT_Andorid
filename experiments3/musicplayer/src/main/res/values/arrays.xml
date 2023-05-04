@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ctype">
+        <item>倒数</item>
+        <item>告白气球</item>
+        <item>体面</item>
+        <item>句号</item>
+        <item>晴天</item>
+        <item>选择音乐</item>
+    </string-array>
+</resources>

@@ -13,7 +13,9 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Directory"
-include ':c'
+include ':exp_1'
 include ':a'
 include ':orderedbroadcast'
 include ':exp_a'
+include ':musicplayer'
+include ':directory'

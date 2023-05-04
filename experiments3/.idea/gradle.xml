@@ -11,8 +11,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/a" />
-            <option value="$PROJECT_DIR$/c" />
+            <option value="$PROJECT_DIR$/directory" />
+            <option value="$PROJECT_DIR$/exp_1" />
             <option value="$PROJECT_DIR$/exp_a" />
+            <option value="$PROJECT_DIR$/musicplayer" />
             <option value="$PROJECT_DIR$/orderedbroadcast" />
           </set>
         </option>

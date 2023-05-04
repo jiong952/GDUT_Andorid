@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29473c90-a47d-4951-ac49-94fabe725343" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/androidTest/java/cn/itcast/directory/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/java/cn/itcast/directory/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/java/cn/itcast/directory/NextActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/drawable/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/layout/activity_next.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/layout/person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/exp_c/src/test/java/cn/itcast/directory/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/androidTest/java/cn/itcast/musicplayer/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/java/cn/itcast/musicplayer/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/java/cn/itcast/musicplayer/MusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable-hdpi/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable-hdpi/btn_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable-hdpi/img_music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable-hdpi/music_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable-hdpi/title_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable/btn_bg_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/raw/daoshu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/raw/gaobaiqiqiu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/raw/juhao.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/raw/music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/raw/qingtian.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiments3/musicplayer/src/test/java/cn/itcast/musicplayer/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/experiments3/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/androidTest/java/cn/itcast/directory/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/java/cn/itcast/directory/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/java/cn/itcast/directory/NextActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/drawable/img_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/layout/activity_next.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/layout/person.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/values-w820dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/c/src/test/java/cn/itcast/directory/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments3/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/experiments3/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PKcAMkqseE6lOncLcPzkrC1d1l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Mono/Desktop/homework/Android/experiments/experiments3"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29473c90-a47d-4951-ac49-94fabe725343" name="Changes" comment="" />
+      <created>1683209069994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683209069994</updated>
+    </task>
+    <servers />
+  </component>
+</project>
