@@ -67,24 +67,31 @@
         android:orientation="vertical"
         android:background="@color/gray"
         android:gravity="center">
-        <TextView
-            android:id="@+id/t_text"
-            android:layout_width="match_parent"
+        <fragment
+            android:id="@+id/right"
+            android:name="com.zjh.experiments.RightFragment"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="15sp"
-            android:text="计算机学院是广东工业大学重点建设学院之一，计算机本科专业已开办三十多年，涵盖计算机科学与技术、软件工程和网络空间安全三个一级学科。现有1个一级学科博士点、2个一级学科硕士点和2个工程硕士点，拥有完整的本-硕-博人才培养体系。"
-            android:layout_marginTop="20dp"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:textColor="@android:color/black"/>
+            android:layout_weight="3"
+            tools:layout="@layout/right_layout" />
+<!--        <TextView-->
+<!--            android:id="@+id/t_text"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textSize="15sp"-->
+<!--            android:text="计算机学院是广东工业大学重点建设学院之一，计算机本科专业已开办三十多年，涵盖计算机科学与技术、软件工程和网络空间安全三个一级学科。现有1个一级学科博士点、2个一级学科硕士点和2个工程硕士点，拥有完整的本-硕-博人才培养体系。"-->
+<!--            android:layout_marginTop="20dp"-->
+<!--            android:layout_marginLeft="10dp"-->
+<!--            android:layout_marginRight="10dp"-->
+<!--            android:textColor="@android:color/black"/>-->
 
-        <ImageView
-            android:id="@+id/i_image"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="10dp"
-            android:layout_marginRight="10dp"
-            android:src="@drawable/img1"/>
+<!--        <ImageView-->
+<!--            android:id="@+id/i_image"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginLeft="10dp"-->
+<!--            android:layout_marginRight="10dp"-->
+<!--            android:src="@drawable/img1"/>-->
     </LinearLayout>
 
 </LinearLayout>
