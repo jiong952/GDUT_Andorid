@@ -13,4 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Directory"
-include ':app'
+include ':c'
+include ':a'
+include ':orderedbroadcast'
+include ':exp_a'
