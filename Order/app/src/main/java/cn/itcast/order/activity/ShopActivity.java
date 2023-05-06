@@ -54,7 +54,7 @@ public class ShopActivity extends AppCompatActivity {
     private void init(){
         tv_back = findViewById(R.id.tv_back);
         tv_title = findViewById(R.id.tv_title);
-        tv_title.setText("店铺");
+        tv_title.setText("仿美团外卖");
         rl_title_bar = findViewById(R.id.title_bar);
         rl_title_bar.setBackgroundColor(getResources().getColor(
                 R.color.blue_color));
