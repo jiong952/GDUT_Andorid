@@ -1,5 +1,4 @@
 package cn.itcast.order.activity;
-
 import android.content.Context;
 import android.os.Bundle;
 import android.os.Handler;
@@ -14,10 +13,8 @@ import android.view.WindowManager;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-
 import java.io.IOException;
 import java.util.List;
-
 import cn.itcast.order.R;
 import cn.itcast.order.adapter.AdBannerAdapter;
 import cn.itcast.order.adapter.ShopAdapter;

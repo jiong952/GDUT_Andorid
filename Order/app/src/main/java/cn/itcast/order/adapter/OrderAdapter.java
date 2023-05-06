@@ -1,5 +1,4 @@
 package cn.itcast.order.adapter;
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,12 +6,9 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.bumptech.glide.Glide;
-
 import java.math.BigDecimal;
 import java.util.List;
-
 import cn.itcast.order.R;
 import cn.itcast.order.bean.FoodBean;
 

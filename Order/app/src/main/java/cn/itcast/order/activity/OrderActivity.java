@@ -1,5 +1,4 @@
 package cn.itcast.order.activity;
-
 import android.app.Dialog;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -7,10 +6,8 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
 import java.math.BigDecimal;
 import java.util.List;
-
 import cn.itcast.order.R;
 import cn.itcast.order.adapter.OrderAdapter;
 import cn.itcast.order.bean.FoodBean;

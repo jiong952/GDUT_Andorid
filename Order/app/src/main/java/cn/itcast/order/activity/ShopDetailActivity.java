@@ -1,5 +1,4 @@
 package cn.itcast.order.activity;
-
 import android.app.Dialog;
 import android.content.Intent;
 import android.graphics.Color;
@@ -15,15 +14,12 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-
 import com.bumptech.glide.Glide;
-
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
 import cn.itcast.order.R;
 import cn.itcast.order.adapter.CarAdapter;
 import cn.itcast.order.adapter.MenuAdapter;
